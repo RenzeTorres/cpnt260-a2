@@ -1,0 +1,30 @@
+body {
+    background-color: #333; 
+    font-family: Arial, sans-serif; 
+    color: #f0f0f0; 
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5); 
+    transition: 0.3s;
+    width: 300px;
+    border-radius: 5px;
+    background-color: #444; 
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+}
+
+.container, .container-fluid {
+    padding: 2px 16px;
+    background-color: transparent; 
+}
+
+a {
+    color: #4DD0E1;
+}
+
+
+
+
